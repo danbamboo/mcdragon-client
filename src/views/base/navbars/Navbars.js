@@ -42,7 +42,7 @@ const CNavbars = () => {
             </CNavbarBrand>
             <CCollapse show={isOpen} navbar>
               <CNavbarNav>
-                <CNavLink>Home</CNavLink>
+                <CNavLink>Home_5</CNavLink>
                 <CNavLink>Link</CNavLink>
               </CNavbarNav>
               <CNavbarNav className="ml-auto">
@@ -131,7 +131,7 @@ const CNavbars = () => {
             <CToggler inNavbar onClick={()=>{setIsOpenDropdown(!isOpenDropdown)}} />
             <CCollapse show={isOpenDropdown} navbar>
               <CNavbarNav>
-                <CNavLink>Home</CNavLink>
+                <CNavLink>Home_4</CNavLink>
                 <CNavLink>Link</CNavLink>
                 <CDropdown
                   inNav

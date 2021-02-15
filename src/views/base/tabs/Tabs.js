@@ -32,7 +32,7 @@ const Tabs = () => {
               <CNav variant="tabs">
                 <CNavItem>
                   <CNavLink>
-                    Home
+                    Home_4
                   </CNavLink>
                 </CNavItem>
                 <CNavItem>
@@ -71,7 +71,7 @@ const Tabs = () => {
               <CNav variant="tabs">
                 <CNavItem>
                   <CNavLink data-tab="home">
-                    Home
+                    Home_12
                   </CNavLink>
                 </CNavItem>
                 <CNavItem>
@@ -152,7 +152,7 @@ const Tabs = () => {
                 <CNavItem>
                   <CNavLink>
                     <CIcon name="cil-calculator" />
-                    { active === 0 && ' Home'}
+                    { active === 0 && ' Home_2'}
                   </CNavLink>
                 </CNavItem>
                 <CNavItem>
